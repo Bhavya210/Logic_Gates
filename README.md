@@ -1,7 +1,7 @@
 # VHDL Logic Gates Implementation
 
 ## Overview
-This VHDL code repository provides concise implementations of basic logic gates, including AND, OR, and XOR gates. Additionally, a comprehensive test bench code is included for each logic gate to facilitate functional verification.
+This VHDL code repository provides concise implementations of basic logic gates, including AND, OR, NOT and XOR gates. Additionally, a comprehensive test bench code is included for each logic gate to facilitate functional verification.
 
 ## Contents
 1. **AND Gate (and_gate.vhdl):** VHDL code for an AND gate.
